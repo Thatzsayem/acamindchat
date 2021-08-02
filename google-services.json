@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96339006667",
+    "project_id": "testacamind",
+    "storage_bucket": "testacamind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96339006667:android:3804d743f278f4b877774e",
+        "android_client_info": {
+          "package_name": "com.example.acamindchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96339006667-lnke0vdr48jl80fi36i762octhuhp785.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjhwxeu3V19ofeAnhCH6KuycbrAyrI5H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96339006667-lnke0vdr48jl80fi36i762octhuhp785.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
